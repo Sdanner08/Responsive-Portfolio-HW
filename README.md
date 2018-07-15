@@ -9,10 +9,10 @@ A
  https://sdanner08.github.io/Responsive-Portfolio-HW/
 
 Main Page
-![alt text](assets/images/homescreen.jpg)
+![alt text](assets/images/homescreen.png)
 
 Profile
-![alt text](assets/images/profile.jpg)
+![alt text](assets/images/profile.png)
 
 
 Technologies Used
